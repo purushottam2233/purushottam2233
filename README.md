@@ -2,19 +2,17 @@
 
 ## 📊 GitHub Dashboard
 
-> ✨ Replace `your-username` below with your GitHub username to make widgets work.
-
 ### ⭐ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottam2233\&show_icons=true)
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purushottam2233)
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username\&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=purushottam2233)
 
 ---
 
@@ -23,26 +21,27 @@
 * HTML • CSS • JavaScript
 * React • Bootstrap • Tailwind
 * Git • GitHub
+* Learning: Node.js
 
 ---
 
 ## 📂 Featured Projects
 
-* **Study in UK (British Council)** – Education website
-* **Metro Mass** – Hospital website
-* **To-Do App** – Task management app
+* Study in UK (British Council)
+* Metro Mass (Hospital Website)
+* To‑Do App
 
 ---
 
-## 📧 Connect with me
+## 🧑‍💻 About Me
 
-* Email: [purushottamsharma830660@gamil.com](mailto:purushottamsharma830660@gamil.com)
-* LinkedIn: <!-- Add your profile link here -->
+* 🌱 Currently learning Node.js
+* 🎯 Goal: Get a developer job
+* 🚀 I enjoy building real‑world projects and improving daily
 
 ---
 
-### ✔️ How to use this README
+## 📫 Connect with me
 
-* Copy this markdown into your GitHub profile README
-* Replace `your-username` with your GitHub username
-* Edit projects, skills, a
+* Email: [purushottamsharma830660@gmail.com](mailto:purushottamsharma830660@gmail.com)
+* LinkedIn: (add your link here)
