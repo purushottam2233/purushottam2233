@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Purushottam Sharma
 
-<!--
-**purushottam2233/purushottam2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Dashboard
 
-Here are some ideas to get you started:
+> ✨ Replace `your-username` below with your GitHub username to make widgets work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&hide_border=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username\&hide_border=true)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username\&margin-w=5)
+
+---
+
+## 🚀 Skills & Tools
+
+* HTML • CSS • JavaScript
+* React • Bootstrap • Tailwind
+* Git • GitHub
+
+---
+
+## 📂 Featured Projects
+
+* **Study in UK (British Council)** – Education website
+* **Metro Mass** – Hospital website
+* **To-Do App** – Task management app
+
+---
+
+## 📧 Connect with me
+
+* Email: [purushottamsharma830660@gamil.com](mailto:purushottamsharma830660@gamil.com)
+* LinkedIn: <!-- Add your profile link here -->
+
+---
+
+### ✔️ How to use this README
+
+* Copy this markdown into your GitHub profile README
+* Replace `your-username` with your GitHub username
+* Edit projects, skills, a
