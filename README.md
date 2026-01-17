@@ -2,8 +2,7 @@
 
 ## 📊 GitHub Dashboard
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottam2233&show_icons=true&theme=radical)
+![GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=purushottam2233)
 
 ---
 
