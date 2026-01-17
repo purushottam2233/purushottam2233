@@ -1,19 +1,22 @@
 # 👋 Hi, I'm Purushottam Sharma
 
 ## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
-### ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottam2233&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushottam2233&show_icons=true&theme=radical)
 
+---
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=purushottam2233&theme=tokyonight)
+## 🔥 Contribution Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purushottam2233&theme=radical)
 
+---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=purushottam2233)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=purushottam2233&theme=radical)
+
 
 ---
 
