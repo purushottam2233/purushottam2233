@@ -7,8 +7,10 @@
 
 
 ### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=purushottam2233&theme=github-dark" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purushottam2233)
 
 ### 🏆 GitHub Trophies
 
