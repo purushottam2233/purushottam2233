@@ -12,7 +12,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 ## 🏆 GitHub Trophies
 
@@ -26,7 +26,7 @@
 
 * HTML • CSS • JavaScript
 * React • Bootstrap • Tailwind
-* Git • GitHub
+* Git • GitHub .Netlify .Vercel
 * Learning: Node.js
 
 ---
@@ -36,6 +36,9 @@
 * Study in UK (British Council)
 * Metro Mass (Hospital Website)
 * To‑Do App
+* Featured Portfolio
+* AI chatbox (like chatgpt) Help of gemini api
+* Weather App
 
 ---
 
