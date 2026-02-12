@@ -14,7 +14,10 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=purushottam2233&theme=radical)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=purushottam2233&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
