@@ -45,7 +45,7 @@
 ## 🧑‍💻 About Me
 
 * 🌱 Currently learning Node.js
-* 🎯 Goal: Get a developer job
+* 🎯 Goal: Get job in google
 * 🚀 I enjoy building real‑world projects and improving daily
 
 ---
